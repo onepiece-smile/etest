@@ -1,3 +1,3 @@
 # hello Tempelate
 
-> hello i tempelate
+> hello tempelate
