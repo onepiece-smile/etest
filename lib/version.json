@@ -2,8 +2,8 @@
     "support": [
         "0.2.2"
     ],
-    "upgrade": ["1.1.13", "1.1.14", "1.1.15"],
-    "newest": "v1.1.16",
+    "upgrade": ["1.1.13", "1.1.14", "1.1.15","1.1.14"],
+    "newest": "v1.1.25",
     "upgradeUser":[{"name":"c5edc271-6f0d-4146-97c4-e74a2f62b410","version":"1.1.14"}],
     "useList":["b460086d-d83a-4cb9-9ef6-78cf4dfce448"]
 }
