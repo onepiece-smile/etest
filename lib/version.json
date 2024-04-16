@@ -8,8 +8,8 @@
     "useList":["b460086d-d83a-4cb9-9ef6-78cf4dfce448"],
     "notification":{ 
       "id":"10001", 
-      "title":"升级通知",
-      "decs":"学校培训管理员增加其他学时录入功能，学时录入后需要区县培训管理员审定和验证学时，其他培训学时的类型包括：教研活动、课题研究、论文专著、学历提高、企业实践、公共培训、其他；",
+      "title":"系统公告",
+      "desc":"学校培训管理员增加其他学时录入功能，学时录入后需要区县培训管理员审定和验证学时，其他培训学时的类型包括：教研活动、课题研究、论文专著、学历提高、企业实践、公共培训、其他；",
       "url":"https://fanyi.baidu.com/mtpe-individual/multimodal?query=Notification&lang=en2zh", 
       "name":"百度翻译" 
     }
