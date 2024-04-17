@@ -9,8 +9,8 @@
     "notification":{ 
       "id":"10001", 
       "title":"系统公告",
-      "desc":"学校培训管理员增加其他学时录入功能，学时录入后需要区县培训管理员审定和验证学时，其他培训学时的类型包括：教研活动、课题研究、论文专著、学历提高、企业实践、公共培训、其他；",
-      "url":"https://fanyi.baidu.com/mtpe-individual/multimodal?query=Notification&lang=en2zh", 
-      "name":"百度翻译" 
+      "desc":"你好欢迎使用eTest自动化工具，我们会及时发布最新资讯信息，感谢使用！想了解更多信息，请查看官网信息",
+      "url":"https://alltheblue.github.io/docs/#/", 
+      "name":"了解更多" 
     }
 }
